@@ -1,0 +1,42 @@
+* {
+    font-family: 'Roboto Mono', monospace;
+    margin: auto;
+    box-sizing: border-box;
+}
+
+.menu {
+    max-width: 100%;
+    position:fixed;
+}
+
+.primera {
+    height: auto;
+    max-width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+.primera img {
+    border-style: none;
+    /* height: 900px; */
+    max-width: 90%;
+    border-radius: 60px;
+    display: fle;
+}
+
+.segunda {
+    width: auto;
+    max-width: 100%;
+    display:contents;
+}
+
+.segunda img {
+    margin:auto;
+    margin-top: 54px;
+    border-style: none;
+    max-width: 90%;
+    border-radius: 60px;
+    display: flex;
+    clip-path: inset(0 0% 60%);
+}
+
